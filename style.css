@@ -1,0 +1,61 @@
+body{
+    background-color: #c6d4e1 ;
+}
+#topo{
+    background: #44749d;
+    
+    
+}
+
+#foto{
+    display: flex;
+    justify-content:start;
+    padding: 1%;
+    border-radius: 100px;
+    height: 300px;
+    left: 300px;
+    margin-bottom: -9%;
+}
+
+#name{
+    display: flex;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: larger;
+    color: #ffffff ;
+    box-shadow: #0c0c0c;
+    
+}
+#discrição{
+    background-color: #acbfc7;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 30px 10px 15px 80px;
+    border: 50px;
+    display: flex;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: -30px;
+    margin-right: 10px;
+}
+
+#exp{
+    background-color: #acbfb7;
+    font-family: 'IBM Plex Mono', monospace;
+    margin-top: 20px;
+    padding: 30px;
+    margin-left: -30px;
+    margin-right: 10px;
+}
+
+b{
+    font-size: larger;
+}
+#rodap {
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    height: 40px;
+    padding: 10px;
+}
+
